@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analytics and data science applied to renewable energy and sustainability.
 - 🌱 I’m currently learning how to do data scraping in Python using Selenium.
 - 💞️ I’m looking to collaborate on whatever I can be helpful at.
-- 📫 You can reach me out at roberto@viagellc.com
+- 📫 You can reach me out at roberto@viagellc.com .
 
 <!---
 roberto-viage/roberto-viage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
